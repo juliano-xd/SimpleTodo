@@ -67,7 +67,3 @@ Note: `'num` represents the index to be operated on. It should be greater than o
 ## Contributing
 
 Contributions are welcomed via pull requests. For major changes, please open an issue first to discuss the proposed adjustments.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE.md](LICENSE.md) file for details.
